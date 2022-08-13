@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @author pnn
+ * @author ph87
  * @since 2022/8/13
  */
 public class NQueens {
